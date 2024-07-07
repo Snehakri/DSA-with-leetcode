@@ -1,14 +1,3 @@
-// class Solution {
-// public:
-//     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-//         vector<vector<int>> adj(n);
-//         for(int i=0;i<edges.size();i++){
-//             adj[edges[i][1]].push_back(edges[i][0]);
-//         }
-        
-//         return adj;
-//     }
-// };
 class Solution {
  public:
   vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
