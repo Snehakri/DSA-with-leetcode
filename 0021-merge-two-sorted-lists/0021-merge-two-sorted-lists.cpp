@@ -37,15 +37,14 @@ public:
                 list2=list2->next;
             }
         }
-        while(list1!=NULL){
+        if(list1!=NULL){
             head->next=list1;
-            head=list1;
-            list1=list1->next;
+            // head=list1;
+            // list1=list1->next;
         }
-        while(list2!=NULL){
+        if(list2!=NULL){
             head->next=list2;
-            head=list2;
-            list2=list2->next;
+     
         }
         return newhead;
     }
