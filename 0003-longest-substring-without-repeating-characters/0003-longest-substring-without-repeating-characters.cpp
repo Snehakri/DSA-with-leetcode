@@ -8,9 +8,7 @@ public:
         int i=0,j=0;
         while(i<=j && j<s.size()){
             if(m.find(s[j])!=m.end()){
-                if(m[s[j]]>=i){
-                    i=m[s[j]]+1;
-                } 
+                    i=max(m[s[j]]+1,i);
             }
             m[s[j]]=j;
             count=j-i+1;
