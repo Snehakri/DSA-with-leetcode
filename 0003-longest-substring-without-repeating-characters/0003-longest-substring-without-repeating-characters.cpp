@@ -11,21 +11,11 @@ public:
                 if(m[s[j]]>=i){
                     i=m[s[j]]+1;
                 } 
-                //i=m[s[j]]+1;
-                // while(i<j && m.find(s[j])!=m.end()){
-                //     m.erase(s[i]);
-                //     i++;
-                // }
             }
             m[s[j]]=j;
             count=j-i+1;
-            // j++;
-            cout<<i<<"=i, count in "<<j<<"is:"<<count<<endl;
             j++;
             maxi=max(maxi,count);
-        }
-        for(auto it:m){
-            cout<<it.first<<" "<<it.second<<endl;
         }
         return maxi;
     }
