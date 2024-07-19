@@ -17,16 +17,20 @@ public:
             f=f->next->next;
             if(s==f){
                 f=head;
-                break;
-            }
-        }
-        while(f){
-            if(f==s){
+                while(s!=f){
+                    f=f->next;
+                    s=s->next;
+                }
                 return f;
             }
-            f=f->next;
-            s=s->next;
         }
+        // while(f){
+        //     if(f==s){
+        //         return f;
+        //     }
+        //     f=f->next;
+        //     s=s->next;
+        // }
         return NULL;
     }
 };
