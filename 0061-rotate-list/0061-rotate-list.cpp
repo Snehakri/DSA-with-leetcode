@@ -20,7 +20,7 @@ public:
         }
         p->next=head;
         if(k>count) k=k%count;
-        for(int i=0;i<abs(count-k);i++){
+        for(int i=0;i<count-k;i++){
             p=p->next;
         }
         ListNode* q=p->next;
