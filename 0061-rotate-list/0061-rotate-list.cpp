@@ -19,7 +19,7 @@ public:
             p=p->next;
         }
         p->next=head;
-        if(k>count) k=k%count;
+        k=k%count;
         for(int i=0;i<count-k;i++){
             p=p->next;
         }
