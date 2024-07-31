@@ -26,7 +26,7 @@ public:
         int n=nums.size();
         int low=0,high=n-2;
         while(low<=high){
-            int mid=(low+high)/2;
+            int mid=(low+high)>>1;
             if(nums[mid]==nums[mid^1]){
                 low=mid+1;
             }
