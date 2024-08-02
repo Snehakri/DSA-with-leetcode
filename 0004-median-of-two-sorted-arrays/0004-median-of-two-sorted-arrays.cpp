@@ -9,31 +9,33 @@ public:
         int val1,val2;
         while(i<n && j<m){
             if(nums1[i]<nums2[j]){
-                if(count==ind1) val1=nums1[i];
+                
                 if(count==ind2) val2=nums1[i];
+                if(count==ind1) val1=nums1[i];
                 i++;
                 count++;
             }
             else{
-                 if(count==ind1) val1=nums2[j];
+                
                 if(count==ind2) val2=nums2[j];
+                if(count==ind1)  val1=nums2[j];
                 j++;
                 count++;
             }
         }
         while(i<n){
-            if(count==ind1) val1=nums1[i];
             if(count==ind2) val2=nums1[i];
+            if(count==ind1) val1=nums1[i];
             i++;
             count++;
         }
         while(j<m){
-            if(count==ind1) val1=nums2[j];
             if(count==ind2) val2=nums2[j];
+            if(count==ind1) val1=nums2[j];
             j++;
             count++;
         }
-        cout<<n+m<<" "<<val1<<" "<<val2;
+        cout<<endl<<n+m<<" "<<val1<<" "<<val2;
         if((n+m)%2==1){
             return val1;
         }
