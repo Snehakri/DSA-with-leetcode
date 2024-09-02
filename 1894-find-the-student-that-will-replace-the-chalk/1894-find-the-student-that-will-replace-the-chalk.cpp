@@ -13,6 +13,6 @@ public:
             }
             k-=chalk[i];
         }
-        return n-1;
+        return -1;
     }
 };
