@@ -166,4 +166,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Math
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
