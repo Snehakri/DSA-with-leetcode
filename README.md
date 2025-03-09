@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3483-alternating-groups-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,4 +237,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
