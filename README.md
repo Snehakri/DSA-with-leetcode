@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0952-word-subsets) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
