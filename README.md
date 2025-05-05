@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
