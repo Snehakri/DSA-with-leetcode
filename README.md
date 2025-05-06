@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
