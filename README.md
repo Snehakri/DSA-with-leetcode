@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2465-shifting-letters-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2681-put-marbles-in-bags](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -452,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
