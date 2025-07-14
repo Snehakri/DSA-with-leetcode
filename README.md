@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
