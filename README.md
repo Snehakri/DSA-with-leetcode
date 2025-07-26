@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2998-count-symmetric-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
 | ------- |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
