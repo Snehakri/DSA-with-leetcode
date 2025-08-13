@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
