@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
