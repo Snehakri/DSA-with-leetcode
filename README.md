@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0854-making-a-large-island](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2145-grid-game) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
