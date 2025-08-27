@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
 | ------- |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
