@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2048-build-array-from-permutation) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1813-maximum-erasure-value](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
