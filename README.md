@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2465-shifting-letters-ii) |
+| [2887-sort-vowels-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
