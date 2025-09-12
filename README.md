@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
@@ -552,4 +555,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
