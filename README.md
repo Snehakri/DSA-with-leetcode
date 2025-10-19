@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -520,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
