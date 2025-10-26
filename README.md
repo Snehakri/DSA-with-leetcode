@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2145-grid-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2145-grid-game) |
+| [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-minimum-number-of-people-to-teach](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -624,4 +627,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
