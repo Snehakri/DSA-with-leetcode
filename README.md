@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
