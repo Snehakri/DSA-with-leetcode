@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
