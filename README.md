@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0768-partition-labels) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -593,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Snehakri/DSA-with-leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
