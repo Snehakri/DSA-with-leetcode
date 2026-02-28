@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0611-valid-triangle-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0611-valid-triangle-number) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Simulation
@@ -671,4 +675,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2169-simple-bank-system) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
