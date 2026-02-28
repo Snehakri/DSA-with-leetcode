@@ -1,23 +1,23 @@
-class Solution {
- public:
-  int trap(vector<int>& height) {
-      int n=height.size();
-      int sum=0;
-      int lmax=0,rmax=0;
-      int l=0,r=n-1;
-      while(l<=r){
-          if(height[l]<=height[r]){
-              if(lmax<height[l]) lmax=height[l];
-              else sum+=(lmax-height[l]);
-              l++;
-          }
-          else{
-              if(rmax<height[r]) rmax=height[r];
-              else sum+=(rmax-height[r]);
-              r--;
-          }
-      }
-      return sum;
+// class Solution {
+//  public:
+//   int trap(vector<int>& height) {
+//       int n=height.size();
+//       int sum=0;
+//       int lmax=0,rmax=0;
+//       int l=0,r=n-1;
+//       while(l<=r){
+//           if(height[l]<=height[r]){
+//               if(lmax<height[l]) lmax=height[l];
+//               else sum+=(lmax-height[l]);
+//               l++;
+//           }
+//           else{
+//               if(rmax<height[r]) rmax=height[r];
+//               else sum+=(rmax-height[r]);
+//               r--;
+//           }
+//       }
+//       return sum;
       // int sum=0;
       // for(int i=0;i<height.size();i++){
       //     int max1=0,max2=0;
@@ -56,5 +56,38 @@ class Solution {
 //       }
 
 //     return ans;
+//   }
+
+class Solution {
+ public:
+  int trap(vector<int>& height) {
+      int n=height.size();
+      int maxLeft=0,maxRight=0;
+      int i=0,j=n-1;
+      int sum=0;
+      while(i<=j){
+        if(height[i]<=height[j]){
+            if(height[i]<=maxLeft){
+                sum+=(maxLeft-height[i]);
+                i++;
+            }
+            else{
+                maxLeft=height[i];
+                i++;
+            }
+        }
+        else{
+            if(maxRight>height[j]){
+               sum+=(maxRight-height[j]); 
+               j--;
+            }
+            else{
+                maxRight=height[j];
+                j--;
+            }
+        }
+      }
+      return sum;
+      
   }
 };
