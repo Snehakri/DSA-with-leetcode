@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0076-minimum-window-substring) |
 | [0768-partition-labels](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0076-minimum-window-substring) |
 | [0768-partition-labels](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0076-minimum-window-substring) |
 | [0867-new-21-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1813-maximum-erasure-value) |
