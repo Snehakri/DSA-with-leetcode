@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
