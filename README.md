@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0611-valid-triangle-number](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0611-valid-triangle-number) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Snehakri/DSA-with-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Snehakri/DSA-with-leetcode/tree/master/2145-grid-game) |
