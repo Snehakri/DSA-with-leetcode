@@ -1,28 +1,66 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> v;
-        int sum=1;
-        int count=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==0) {
-                count++;
-            }
-            else sum*=nums[i];
+       int zero=0;
+       int n=nums.size();
+       int mul=1;
+       for(int i=0;i<n;i++){
+          if(nums[i]==0) zero++;
+          else mul*=nums[i];
+       }
+       for(int i=0;i<n;i++){
+        if(zero>1){
+            nums[i]=0;
         }
-        for(int i=0;i<nums.size();i++){
-            if(count>=2){
-                v.push_back(0);
+        else if(zero==1){
+            if(nums[i]==0){
+                nums[i]=mul;
             }
-            else if(nums[i]!=0 && count==0){
-                 int n=sum/nums[i];
-                v.push_back(n);
-            }
-            else if(nums[i]!=0 && count!=0){
-                v.push_back(0);   
-            }
-            else v.push_back(sum);
+            else nums[i]=0;
         }
-        return v;
+        else nums[i]=mul/nums[i];
+       }
+       return nums;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// vector<int> productExceptSelf(vector<int>& nums) {
+//         vector<int> v;
+//         int sum=1;
+//         int count=0;
+//         for(int i=0;i<nums.size();i++){
+//             if(nums[i]==0) {
+//                 count++;
+//             }
+//             else sum*=nums[i];
+//         }
+//         for(int i=0;i<nums.size();i++){
+//             if(count>=2){
+//                 v.push_back(0);
+//             }
+//             else if(nums[i]!=0 && count==0){
+//                  int n=sum/nums[i];
+//                 v.push_back(n);
+//             }
+//             else if(nums[i]!=0 && count!=0){
+//                 v.push_back(0);   
+//             }
+//             else v.push_back(sum);
+//         }
+//         return v;
+//     }
