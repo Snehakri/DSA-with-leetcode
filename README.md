@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0042-trapping-rain-water) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0035-search-insert-position) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
