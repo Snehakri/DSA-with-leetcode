@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0076-minimum-window-substring) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0076-minimum-window-substring) |
 | [0768-partition-labels](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0900-reordered-power-of-2) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Snehakri/DSA-with-leetcode/tree/master/0342-power-of-four) |
